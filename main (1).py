@@ -1,3 +1,4 @@
+#Demo of the website by having two recipents match up with a donor who is donating child care products
 #Global variables for recipents
 food_option = 1
 med_option = 2
