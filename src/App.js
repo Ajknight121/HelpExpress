@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-
+          We plan on using react to create our Figma designed webapp
         </p>
         <a
           className="App-link"
