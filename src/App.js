@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Link to interactive Figma
+
         </p>
         <a
           className="App-link"
@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Link to interactive Figma
         </a>
       </header>
     </div>
