@@ -7,15 +7,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Link to interactive Figma
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.figma.com/file/cTfjqTEmFSjynr4usRZLHr/Help-Express?node-id=0-1&t=93HrytDb8T9wBUs1-0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>
